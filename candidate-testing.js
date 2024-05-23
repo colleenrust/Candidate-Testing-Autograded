@@ -60,8 +60,8 @@ function gradeQuiz(candidateAnswers) {
     console.log(">>> Status: PASSED <<<");
   } else {
     console.log(">>> Status: FAILED <<<");
-  }
-}
+    }
+ }
 
   //TODO 3.2 use this variable to calculate the candidates score.
 
